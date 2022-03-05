@@ -1,0 +1,11 @@
+bottle==0.12.18
+cffi==1.14.4
+cryptography==3.2.1
+gevent==20.9.0
+gevent-websocket==0.10.1
+greenlet==0.4.17
+pycparser==2.20
+verify_email
+phonenumbers
+requests
+Werkzeug
